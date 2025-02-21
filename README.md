@@ -82,16 +82,6 @@ chmod +x submission_reminder_{yourName}/startup.sh
 ```
 - `startup.sh` should be implemented separately to launch the application.
 
-Repository Structure
-create_environment.sh: Script to set up the application environment.
-README.md: This file, containing instructions and project details.
-submission_reminder_yourName/: Directory created by the setup script, containing:
-app/reminder.sh: Main script for checking submissions.
-modules/functions.sh: Helper functions for the app.
-assets/submissions.txt: File containing student submission records.
-config/config.env: Configuration file for assignment details.
-startup.sh: Script to start the application.
-
 Example Output
 When you run the application, you will see output similar to the following:
 
