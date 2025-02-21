@@ -83,8 +83,6 @@ chmod +x submission_reminder_{yourName}/startup.sh
 - `startup.sh` should be implemented separately to launch the application.
 
 Repository Structure
-The repository contains the following files and directories:
-
 create_environment.sh: Script to set up the application environment.
 README.md: This file, containing instructions and project details.
 submission_reminder_yourName/: Directory created by the setup script, containing:
