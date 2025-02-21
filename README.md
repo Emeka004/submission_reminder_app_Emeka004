@@ -83,6 +83,7 @@ chmod +x submission_reminder_{yourName}/startup.sh
 - `startup.sh` should be implemented separately to launch the application.
 
 Example Output
+
 When you run the application, you will see output similar to the following:
 
 Starting the reminder app...
@@ -95,6 +96,7 @@ Checking submissions in ./assets/submissions.txt
 Reminder: Chiazokam has not submitted the Literature assignment!
 
 Customization
+
 You can customize the app to suit your needs:
 
 Add More Students: Edit the submissions.txt file to include additional student records.
