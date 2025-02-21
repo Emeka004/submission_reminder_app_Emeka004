@@ -1,0 +1,17 @@
+student, assignment, submission status
+David , Maths, not submitted
+Gift, Biology, submitted
+Toni, Chemistry, not submitted
+Anita, Economics, submitted
+Rita, Geography, submitted
+Kellen, Physics, not submitted
+Rafe, English, not submitted
+Tayo, Government, submitted
+Emeka, Computer science, not submitted
+Frank, Shell Basics, submitted
+Tobore, Economics, not submitted
+Esiri, Maths, submitted
+Martin, Government, not submitted
+Shayla, English, submitted
+Chiazokam, Literature, not submitted
+John, Sports science, submitted
