@@ -82,7 +82,7 @@ chmod +x submission_reminder_{yourName}/startup.sh
 ```
 - `startup.sh` should be implemented separately to launch the application.
 
-##Example Output
+## Example Output
 
 When you run the application, you will see output similar to the following:
 
@@ -95,7 +95,7 @@ Days remaining to submit: 2 days
 Checking submissions in ./assets/submissions.txt
 Reminder: Chiazokam has not submitted the Literature assignment!
 
-##Customization
+## Customization
 
 You can customize the app to suit your needs:
 
